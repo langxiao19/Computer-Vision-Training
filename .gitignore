@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS zip leftovers
+__MACOSX/
+
+# Public datasets (download separately)
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+VOCdevkit/
+MNIST_data/
